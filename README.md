@@ -1,3 +1,6 @@
 # Welcome to IS 4487
 This course repository contains
-- [Datasets] (./Datasets) 
+- [Datasets] (./DataSets) 
+- [Demos] (./Demos)
+- [Labs] (./Labs)  
+- [Assignments] (./Assignments) 
