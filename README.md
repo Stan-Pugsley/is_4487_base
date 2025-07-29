@@ -1,6 +1,6 @@
 # Welcome to IS 4487
 This course repository contains
-- [Datasets] (./DataSets) 
-- [Demos] (./Demos)
-- [Labs] (./Labs)  
-- [Assignments] (./Assignments) 
+- [Datasets] (is_4487_base/tree/main/DataSets) 
+- [Demos] (is_4487_base/tree/main/Demos)
+- [Labs] (is_4487_base/tree/main/Labs)  
+- [Assignments] (is_4487_base/tree/main/Assignments) 
