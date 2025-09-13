@@ -1,0 +1,201 @@
+Loan_ID,Gender,Age,Married,Education,EmploymentStatus,ApplicantIncome,LoanAmount,LoanTerm,CreditScore,HasPreviousDefaults,LoanStatus
+LN1000,Male,52,Yes,Graduate,Employed,4417,66511.0,360.0,723.0,0,Defaulted
+LN1001,Female,59,No,Not Graduate,Employed,3997,238234.0,120.0,612.0,0,Paid
+LN1002,Male,52,Yes,Graduate,Employed,7093,87924.0,360.0,742.0,0,Paid
+LN1003,Male,24,No,Not Graduate,Employed,3035,109184.0,60.0,663.0,1,Paid
+LN1004,Male,50,No,Not Graduate,Employed,2129,215788.0,,795.0,0,Paid
+LN1005,Female,57,Yes,Not Graduate,Employed,6411,62344.0,60.0,601.0,0,Defaulted
+LN1006,Male,43,No,Graduate,Self-Employed,5041,187817.0,180.0,771.0,0,Paid
+LN1007,Male,59,No,Not Graduate,Self-Employed,5191,79348.0,180.0,663.0,0,Paid
+LN1008,Male,35,No,Not Graduate,Employed,4457,,360.0,604.0,0,Paid
+LN1009,Female,63,No,Not Graduate,Unemployed,4642,41506.0,240.0,,0,Paid
+LN1010,Male,49,No,Not Graduate,Employed,4312,62326.0,240.0,627.0,0,Paid
+LN1011,Male,56,Yes,Graduate,Employed,4061,122753.0,360.0,679.0,0,Paid
+LN1012,Male,33,No,Not Graduate,Unemployed,4427,,180.0,686.0,0,Paid
+LN1013,Male,52,Yes,Graduate,Employed,4379,148452.0,180.0,609.0,0,Paid
+LN1014,Female,27,No,Graduate,Unemployed,3757,133214.0,180.0,648.0,0,Paid
+LN1015,Male,42,Yes,Graduate,Employed,4182,217302.0,60.0,799.0,0,Defaulted
+LN1016,Female,48,Yes,Graduate,Unemployed,1245,257761.0,180.0,770.0,0,Defaulted
+LN1017,Female,22,No,Graduate,Employed,6026,183612.0,120.0,680.0,1,Defaulted
+LN1018,Female,62,No,Graduate,Unemployed,5585,118857.0,36.0,652.0,0,Defaulted
+LN1019,Male,26,No,Not Graduate,Employed,4872,129092.0,180.0,658.0,0,Paid
+LN1020,Female,48,Yes,Graduate,Unemployed,5355,85577.0,360.0,692.0,0,Paid
+LN1021,Male,48,No,Graduate,Employed,5410,155040.0,36.0,578.0,0,Paid
+LN1022,Female,64,Yes,Graduate,Employed,3913,68520.0,60.0,631.0,0,Paid
+LN1023,Female,64,Yes,Not Graduate,Unemployed,4201,177593.0,360.0,533.0,0,Defaulted
+LN1024,Female,40,Yes,Not Graduate,Employed,5792,250278.0,36.0,677.0,0,Paid
+LN1025,Female,50,No,Graduate,Self-Employed,5311,185879.0,360.0,695.0,0,Defaulted
+LN1026,Female,31,No,Not Graduate,Self-Employed,8064,126542.0,60.0,616.0,0,Paid
+LN1027,Female,48,Yes,Graduate,Employed,7429,176346.0,120.0,760.0,0,Paid
+LN1028,Female,45,Yes,Graduate,Self-Employed,6399,,60.0,,1,Paid
+LN1029,Female,59,No,Not Graduate,Employed,3857,,60.0,547.0,0,Defaulted
+LN1030,Male,53,Yes,Graduate,Unemployed,4153,99812.0,360.0,665.0,0,Paid
+LN1031,Male,21,No,Not Graduate,Employed,3496,175514.0,,723.0,0,Paid
+LN1032,Female,47,Yes,Not Graduate,Employed,5419,142094.0,180.0,767.0,0,Paid
+LN1033,Female,33,No,Graduate,Unemployed,888,190329.0,180.0,617.0,0,Paid
+LN1034,Female,61,Yes,Graduate,Unemployed,4312,169180.0,120.0,725.0,0,Paid
+LN1035,Male,23,No,Not Graduate,Employed,4539,31513.0,120.0,647.0,1,Paid
+LN1036,Female,59,Yes,Graduate,Self-Employed,2713,132599.0,180.0,637.0,0,Paid
+LN1037,Male,26,No,Graduate,Employed,6196,159927.0,240.0,711.0,0,Paid
+LN1038,Male,28,No,Graduate,Employed,3291,78281.0,180.0,695.0,0,Paid
+LN1039,Male,47,Yes,Not Graduate,Employed,5401,179051.0,240.0,539.0,0,Paid
+LN1040,Male,29,Yes,Not Graduate,Employed,9175,73799.0,120.0,753.0,0,Paid
+LN1041,Male,57,No,Graduate,Employed,2583,110078.0,36.0,746.0,0,Paid
+LN1042,Female,53,Yes,Not Graduate,Employed,4777,217065.0,360.0,606.0,0,Paid
+LN1043,Female,62,No,Not Graduate,Unemployed,4388,105811.0,120.0,677.0,1,Paid
+LN1044,Female,64,Yes,Not Graduate,Unemployed,4097,178698.0,120.0,684.0,0,Defaulted
+LN1045,Female,44,No,Not Graduate,Self-Employed,6140,62321.0,60.0,668.0,0,Paid
+LN1046,Female,35,No,Not Graduate,Employed,6659,254065.0,60.0,611.0,0,Paid
+LN1047,Male,52,No,Graduate,Employed,6157,134772.0,,602.0,0,Paid
+LN1048,Female,52,No,Graduate,Self-Employed,3914,154766.0,360.0,,0,Paid
+LN1049,Female,44,No,Graduate,Self-Employed,8650,158951.0,,,0,Defaulted
+LN1050,Male,61,No,Not Graduate,Employed,2344,180378.0,240.0,688.0,0,Paid
+LN1051,Female,32,Yes,Not Graduate,Unemployed,3451,,180.0,624.0,0,Paid
+LN1052,Male,59,Yes,Graduate,Self-Employed,5254,149733.0,,704.0,0,Paid
+LN1053,Female,22,Yes,Not Graduate,Unemployed,5134,117061.0,120.0,450.0,0,Paid
+LN1054,Male,23,No,Graduate,Self-Employed,5732,65522.0,240.0,730.0,1,Paid
+LN1055,Female,57,No,Graduate,Self-Employed,7370,199356.0,36.0,,0,Defaulted
+LN1056,Female,37,No,Graduate,Employed,4820,132391.0,240.0,624.0,0,Paid
+LN1057,Male,22,No,Not Graduate,Unemployed,5170,162126.0,240.0,571.0,0,Paid
+LN1058,Male,22,Yes,Not Graduate,Unemployed,4108,158992.0,120.0,559.0,0,Paid
+LN1059,Male,48,Yes,Graduate,Employed,5882,133257.0,180.0,731.0,0,Defaulted
+LN1060,Male,43,No,Graduate,Employed,4522,248751.0,60.0,617.0,1,Paid
+LN1061,Male,57,Yes,Graduate,Employed,4521,147636.0,360.0,674.0,0,Defaulted
+LN1062,Male,52,Yes,Graduate,Self-Employed,5815,72102.0,180.0,646.0,0,Paid
+LN1063,Male,53,No,Not Graduate,Unemployed,6552,129980.0,360.0,683.0,0,Paid
+LN1064,Male,21,Yes,Not Graduate,Employed,1687,174986.0,120.0,655.0,0,Paid
+LN1065,Female,39,No,Graduate,Employed,5541,176629.0,120.0,560.0,0,Paid
+LN1066,Female,22,Yes,Graduate,Employed,4594,95610.0,120.0,719.0,0,Paid
+LN1067,Male,64,No,Not Graduate,Unemployed,6421,196474.0,36.0,615.0,1,Defaulted
+LN1068,Female,46,No,Not Graduate,Self-Employed,4624,61856.0,360.0,541.0,0,Paid
+LN1069,Female,52,No,Graduate,Self-Employed,6951,207206.0,180.0,620.0,0,Paid
+LN1070,Female,26,No,Graduate,Employed,3985,84032.0,180.0,,0,Paid
+LN1071,Female,52,Yes,Graduate,Employed,1654,138687.0,240.0,709.0,0,Defaulted
+LN1072,Male,24,No,Not Graduate,Employed,6577,203228.0,240.0,625.0,0,Defaulted
+LN1073,Female,31,No,Not Graduate,Employed,3734,155980.0,240.0,625.0,0,Paid
+LN1074,Male,37,No,Not Graduate,Unemployed,2629,190834.0,120.0,627.0,0,Defaulted
+LN1075,Female,58,Yes,Graduate,Self-Employed,5024,180933.0,180.0,795.0,0,Paid
+LN1076,Female,44,No,Graduate,Unemployed,4641,214313.0,360.0,676.0,0,Paid
+LN1077,Female,25,Yes,Not Graduate,Unemployed,6234,203110.0,120.0,,0,Paid
+LN1078,Male,54,No,Not Graduate,Employed,6338,127312.0,36.0,722.0,1,Defaulted
+LN1079,Female,26,Yes,Graduate,Self-Employed,5143,181647.0,240.0,666.0,0,Paid
+LN1080,Male,42,Yes,Not Graduate,Unemployed,3672,73672.0,120.0,631.0,0,Paid
+LN1081,Female,31,No,Not Graduate,Self-Employed,5430,147104.0,120.0,636.0,0,Paid
+LN1082,Male,36,Yes,Graduate,Employed,5247,190924.0,36.0,644.0,1,Defaulted
+LN1083,Female,53,No,Not Graduate,Employed,5853,156692.0,60.0,647.0,1,Paid
+LN1084,Male,29,No,Graduate,Employed,3687,172331.0,180.0,700.0,0,Paid
+LN1085,Male,26,No,Graduate,Unemployed,4399,139336.0,360.0,653.0,0,Paid
+LN1086,Female,36,Yes,Graduate,Self-Employed,5764,206453.0,60.0,701.0,0,Paid
+LN1087,Male,49,Yes,Graduate,Employed,6870,145979.0,240.0,644.0,0,Paid
+LN1088,Female,23,No,Graduate,Self-Employed,6448,126727.0,120.0,655.0,0,Defaulted
+LN1089,Female,40,No,Graduate,Self-Employed,5123,194325.0,36.0,510.0,0,Paid
+LN1090,Female,56,Yes,Graduate,Employed,4268,79742.0,36.0,714.0,0,Paid
+LN1091,Female,39,No,Not Graduate,Employed,5605,,180.0,674.0,0,Paid
+LN1092,Female,46,No,Graduate,Self-Employed,3362,97875.0,60.0,719.0,0,Defaulted
+LN1093,Female,23,No,Graduate,Employed,3774,213896.0,180.0,447.0,0,Paid
+LN1094,Female,39,Yes,Not Graduate,Self-Employed,7264,,120.0,796.0,0,Paid
+LN1095,Female,40,Yes,Not Graduate,Employed,5603,,180.0,640.0,0,Defaulted
+LN1096,Female,52,Yes,Not Graduate,Unemployed,4478,170628.0,360.0,727.0,0,Defaulted
+LN1097,Female,27,No,Graduate,Employed,6243,53515.0,36.0,577.0,0,Defaulted
+LN1098,Female,61,No,Not Graduate,Employed,6930,117470.0,36.0,692.0,0,Defaulted
+LN1099,Male,53,No,Graduate,Unemployed,4333,202177.0,240.0,576.0,1,Paid
+LN1100,Male,60,Yes,Graduate,Employed,4358,193388.0,240.0,606.0,0,Defaulted
+LN1101,Female,59,No,Graduate,Employed,4171,164151.0,120.0,783.0,0,Paid
+LN1102,Female,38,No,Graduate,Employed,6445,82526.0,360.0,636.0,0,Defaulted
+LN1103,Female,60,No,Not Graduate,Self-Employed,6460,179275.0,60.0,665.0,0,Paid
+LN1104,Female,21,No,Not Graduate,Self-Employed,7078,185669.0,180.0,710.0,0,Defaulted
+LN1105,Female,31,Yes,Graduate,Self-Employed,6512,152350.0,120.0,684.0,0,Paid
+LN1106,Female,48,Yes,Graduate,Employed,2551,211158.0,240.0,660.0,1,Paid
+LN1107,Female,45,No,Graduate,Employed,5421,115828.0,180.0,675.0,0,Paid
+LN1108,Female,43,Yes,Not Graduate,Employed,3412,124507.0,240.0,818.0,1,Defaulted
+LN1109,Male,51,Yes,Graduate,Employed,4230,25769.0,,645.0,1,Defaulted
+LN1110,Female,50,No,Graduate,Employed,5255,195991.0,60.0,664.0,0,Paid
+LN1111,Male,62,No,Not Graduate,Employed,6253,165693.0,120.0,723.0,1,Paid
+LN1112,Female,55,Yes,Not Graduate,Employed,3663,65908.0,180.0,727.0,0,Paid
+LN1113,Female,27,No,Graduate,Unemployed,1512,,,733.0,0,Paid
+LN1114,Male,36,Yes,Not Graduate,Employed,5270,106368.0,36.0,694.0,0,Defaulted
+LN1115,Female,46,No,Not Graduate,Employed,8965,189682.0,360.0,569.0,1,Paid
+LN1116,Male,22,Yes,Graduate,Self-Employed,4695,134981.0,360.0,764.0,1,Paid
+LN1117,Female,21,No,Not Graduate,Employed,5070,109760.0,36.0,569.0,0,Defaulted
+LN1118,Female,32,Yes,Graduate,Self-Employed,7673,99694.0,,671.0,0,Paid
+LN1119,Male,25,Yes,Not Graduate,Unemployed,5885,97454.0,180.0,597.0,0,Paid
+LN1120,Female,57,Yes,Graduate,Unemployed,5325,53316.0,180.0,645.0,0,Paid
+LN1121,Male,52,No,Graduate,Employed,5663,89630.0,180.0,673.0,0,Paid
+LN1122,Female,29,Yes,Graduate,Unemployed,5375,96471.0,36.0,672.0,0,Paid
+LN1123,Male,61,Yes,Not Graduate,Employed,3290,184131.0,360.0,679.0,0,Paid
+LN1124,Male,55,No,Graduate,Employed,2987,141713.0,36.0,762.0,0,Paid
+LN1125,Female,39,No,Not Graduate,Employed,7830,108720.0,180.0,681.0,1,Defaulted
+LN1126,Female,36,Yes,Graduate,Unemployed,5275,265486.0,360.0,632.0,0,Paid
+LN1127,Male,23,Yes,Graduate,Employed,5150,116805.0,360.0,717.0,0,Defaulted
+LN1128,Female,40,No,Not Graduate,Employed,4864,208355.0,240.0,733.0,0,Paid
+LN1129,Female,44,No,Graduate,Self-Employed,6171,231055.0,240.0,564.0,1,Paid
+LN1130,Female,53,No,Graduate,Employed,8808,71501.0,60.0,691.0,1,Paid
+LN1131,Male,44,No,Not Graduate,Employed,5785,153698.0,120.0,699.0,0,Paid
+LN1132,Male,31,No,Graduate,Employed,4117,124123.0,240.0,629.0,0,Paid
+LN1133,Male,28,Yes,Graduate,Employed,4799,120053.0,36.0,746.0,0,Defaulted
+LN1134,Male,56,No,Graduate,Employed,6606,177768.0,240.0,639.0,0,Paid
+LN1135,Male,58,Yes,Graduate,Employed,4125,118856.0,60.0,658.0,0,Paid
+LN1136,Male,60,Yes,Not Graduate,Self-Employed,6278,125201.0,360.0,637.0,0,Defaulted
+LN1137,Male,40,Yes,Not Graduate,Employed,1518,141594.0,60.0,651.0,0,Paid
+LN1138,Male,55,No,Graduate,Employed,4655,131330.0,360.0,573.0,0,Paid
+LN1139,Male,45,Yes,Not Graduate,Unemployed,5942,91321.0,360.0,549.0,0,Paid
+LN1140,Female,55,Yes,Graduate,Employed,6905,189795.0,120.0,,0,Paid
+LN1141,Male,45,No,Not Graduate,Self-Employed,3772,202426.0,240.0,590.0,0,Paid
+LN1142,Female,49,Yes,Graduate,Employed,2745,167180.0,36.0,580.0,1,Paid
+LN1143,Female,38,Yes,Graduate,Employed,4608,131172.0,36.0,499.0,0,Defaulted
+LN1144,Female,38,No,Graduate,Employed,3311,114739.0,180.0,605.0,1,Paid
+LN1145,Male,22,Yes,Graduate,Employed,4776,114818.0,360.0,557.0,0,Paid
+LN1146,Male,55,Yes,Graduate,Employed,4990,267868.0,36.0,764.0,0,Defaulted
+LN1147,Male,36,Yes,Graduate,Employed,3021,196891.0,120.0,720.0,0,Paid
+LN1148,Male,61,No,Not Graduate,Employed,6206,107994.0,360.0,601.0,0,Paid
+LN1149,Female,56,No,Graduate,Employed,4764,158234.0,120.0,807.0,0,Paid
+LN1150,Male,53,No,Not Graduate,Employed,6620,,36.0,718.0,0,Defaulted
+LN1151,Male,24,Yes,Graduate,Employed,2232,179190.0,36.0,627.0,0,Paid
+LN1152,Male,53,Yes,Not Graduate,Employed,3474,177174.0,180.0,475.0,0,Paid
+LN1153,Male,34,No,Not Graduate,Employed,5775,204180.0,36.0,810.0,0,Paid
+LN1154,Male,41,Yes,Not Graduate,Self-Employed,3801,107472.0,360.0,552.0,0,Paid
+LN1155,Female,40,Yes,Graduate,Employed,4753,155236.0,360.0,534.0,0,Defaulted
+LN1156,Male,28,No,Graduate,Self-Employed,5001,62572.0,360.0,721.0,0,Defaulted
+LN1157,Female,27,No,Not Graduate,Self-Employed,5237,87132.0,180.0,820.0,0,Paid
+LN1158,Male,23,Yes,Graduate,Employed,3983,194205.0,180.0,746.0,0,Paid
+LN1159,Female,37,Yes,Not Graduate,Unemployed,5223,102465.0,36.0,689.0,1,Paid
+LN1160,Male,53,Yes,Graduate,Unemployed,3826,107954.0,60.0,691.0,0,Defaulted
+LN1161,Male,32,No,Not Graduate,Employed,6011,149586.0,60.0,709.0,0,Paid
+LN1162,Female,42,No,Not Graduate,Employed,4827,184738.0,180.0,703.0,1,Paid
+LN1163,Female,42,No,Graduate,Self-Employed,5232,96958.0,36.0,669.0,0,Paid
+LN1164,Female,50,No,Not Graduate,Self-Employed,8854,-24040.0,60.0,657.0,0,Paid
+LN1165,Male,58,Yes,Graduate,Employed,3339,106488.0,36.0,645.0,0,Paid
+LN1166,Female,58,No,Not Graduate,Employed,7082,210281.0,36.0,597.0,0,Paid
+LN1167,Male,28,No,Not Graduate,Employed,1010,167156.0,36.0,630.0,0,Paid
+LN1168,Male,47,No,Graduate,Employed,1882,216193.0,240.0,531.0,0,Defaulted
+LN1169,Female,47,No,Graduate,Self-Employed,3139,93409.0,360.0,643.0,0,Paid
+LN1170,Female,54,No,Graduate,Employed,3233,68030.0,36.0,580.0,0,Paid
+LN1171,Male,41,Yes,Not Graduate,Employed,5305,173127.0,240.0,572.0,1,Paid
+LN1172,Male,50,Yes,Graduate,Self-Employed,5434,162001.0,180.0,662.0,0,Paid
+LN1173,Female,53,No,Not Graduate,Employed,4617,165277.0,60.0,,0,Paid
+LN1174,Female,48,Yes,Not Graduate,Employed,4775,196649.0,360.0,714.0,0,Paid
+LN1175,Female,53,No,Graduate,Self-Employed,5791,171084.0,60.0,540.0,0,Paid
+LN1176,Male,25,No,Graduate,Unemployed,6249,170280.0,360.0,580.0,0,Paid
+LN1177,Male,39,Yes,Not Graduate,Employed,3010,185750.0,60.0,715.0,0,Paid
+LN1178,Male,24,Yes,Not Graduate,Employed,4457,175120.0,360.0,581.0,0,Paid
+LN1179,Male,55,No,Graduate,Employed,4895,192872.0,60.0,634.0,1,Defaulted
+LN1180,Male,37,No,Graduate,Employed,5727,200426.0,60.0,688.0,0,Paid
+LN1181,Male,64,No,Graduate,Employed,3840,226584.0,60.0,582.0,0,Defaulted
+LN1182,Female,48,Yes,Graduate,Employed,4866,117540.0,60.0,657.0,0,Paid
+LN1183,Male,50,No,Graduate,Employed,5044,174028.0,180.0,556.0,0,Paid
+LN1184,Male,49,No,Not Graduate,Employed,3943,131483.0,36.0,607.0,0,Paid
+LN1185,Male,26,No,Not Graduate,Employed,3907,108322.0,120.0,672.0,0,Paid
+LN1186,Female,55,Yes,Not Graduate,Employed,5148,115522.0,240.0,538.0,0,Defaulted
+LN1187,Male,61,No,Not Graduate,Employed,4804,174747.0,120.0,680.0,0,Paid
+LN1188,Male,57,No,Graduate,Employed,5750,170912.0,120.0,648.0,0,Defaulted
+LN1189,Female,44,Yes,Graduate,Employed,3420,170020.0,360.0,688.0,0,Paid
+LN1190,Male,49,No,Graduate,Unemployed,4473,138714.0,36.0,665.0,0,Paid
+LN1191,Male,51,No,Not Graduate,Employed,4656,150170.0,360.0,745.0,0,Paid
+LN1192,Male,55,Yes,Not Graduate,Self-Employed,6220,190887.0,36.0,658.0,0,Paid
+LN1193,Male,53,No,Graduate,Self-Employed,3589,75530.0,36.0,619.0,0,Paid
+LN1194,Male,41,Yes,Graduate,Employed,5351,151232.0,60.0,658.0,0,Paid
+LN1195,Female,52,Yes,Not Graduate,Employed,5379,154497.0,180.0,688.0,0,Paid
+LN1196,Female,43,No,Not Graduate,Employed,7469,187665.0,,,0,Paid
+LN1197,Female,53,No,Graduate,Employed,3489,82487.0,180.0,652.0,0,Paid
+LN1198,Male,23,No,Graduate,Self-Employed,4014,224756.0,360.0,600.0,1,Defaulted
+LN1199,Male,38,No,Not Graduate,Employed,3593,160681.0,,603.0,0,Defaulted
