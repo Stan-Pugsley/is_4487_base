@@ -1,4 +1,4 @@
-Date,Open,High,Low,Close,Volume,SMA_5,RSI,Direction,Next Day Closing
+Date,Open,High,Low,Close,Volume,SMA_5,RSI,Direction,Next_Day_Closing
 1/1/2024,190.08,191.26,189.1,190.14,53020510,,,Down,189.86
 1/2/2024,190.08,190.42,189.48,189.86,42711634,,,Up,191.44
 1/3/2024,191.38,192.61,190.57,191.44,50797566,,,Up,193.11
