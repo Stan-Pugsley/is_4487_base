@@ -10,7 +10,7 @@ This course repository contains the following resources to be used in IS 4487 co
 
 | Week | Topic | Demo | Lab | Assignment |
 |:---:|:---|:---|:---|:---|
-| 1 | Python intro | automotive | code only | learning outcomes (Ubot) |
+| 1 | Python intro | automotive | <none> | learning outcomes (Ubot) |
 | 2 | Dataframes | automotive | automotive | case studies (manufacturing, financial services) |
 | 3 | Visualizations | automotive | automotive | call center (interview)|
 | 4 | Data Understanding | retail sales | real estate | call center |
